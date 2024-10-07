@@ -1,0 +1,19 @@
+{
+    "name": "drupal/tagify_vanilla",
+    "description": "Integration with the Tagify JavaScript library.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Mario Lizarraga"
+        }
+    ],
+    "require": {
+        "drupal/core": "^8.8 || ^9 || ^10 || ^11"
+    },
+    "require-dev": {
+        "drupal/better_exposed_filters": "^7.0",
+        "drupal/facets": "^2.0",
+        "drupal/search_api": "^1.31"
+    }
+}

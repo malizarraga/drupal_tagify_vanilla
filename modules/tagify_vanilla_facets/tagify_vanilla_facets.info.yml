@@ -1,0 +1,13 @@
+name: Tagify Vanilla Facets
+type: module
+description: Provides a Tagify Facet widget
+package: Search
+core_version_requirement: ^8.8 || ^9 || ^10 || ^11
+dependencies:
+  - tagify_vanilla:tagify_vanilla
+  - facets:facets
+
+# Information added by Drupal.org packaging script on 2024-09-30
+version: '1.0.0'
+project: 'tagify_vanilla'
+datestamp: 1727689757
